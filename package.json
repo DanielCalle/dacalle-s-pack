@@ -3,8 +3,9 @@
     "displayName": "Dacalle's pack",
     "description": "This extension pack sets up Salesforce developers with useful tools for day-to-day projects.",
     "repository": "https://github.com/DanielCalle/dacalle-s-pack",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "dacalle",
+    "icon": "images/icon.jpg",
     "engines": {
         "vscode": "^1.66.0"
     },
@@ -23,7 +24,7 @@
         "esbenp.prettier-vscode",
         "FinancialForce.lana",
         "formulahendry.auto-rename-tag",
-        "GitHub.copilot",
+        "GitLab.gitlab-workflow",
         "hediet.vscode-drawio",
         "HugoOM.sfdx-autoheader",
         "jebbs.plantuml",

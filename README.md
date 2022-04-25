@@ -13,7 +13,7 @@ This extension pack sets up Salesforce developers with useful tools for day-to-d
 -   [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
 -   [Log File Highlighter](https://marketplace.visualstudio.com/items?itemName=emilast.LogFileHighlighter)
 -   [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
--   [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+-   [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=GitLab.gitlab-workflow)
 -   [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
 -   [Salesforce Documenter](https://marketplace.visualstudio.com/items?itemName=HugoOM.sfdx-autoheader)
 -   [PlantUML](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
